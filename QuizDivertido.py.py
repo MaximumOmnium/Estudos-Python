@@ -14,7 +14,6 @@ class Question:
         self.prompt = prompt
         self.answer = answer
 
-# Limpa a tela antes de começar
 limpar_tela()
 
 typingPrint("Olá, seja bem-vindo ao quiz de Cibersegurança!\n")
